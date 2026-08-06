@@ -1,0 +1,3 @@
+Building with discipline. Learning with intent. Shipping with consistency.
+
+This repository documents my #100DaysOfCode journey—100 days of solving problems, writing clean code, and building real-world projects. Every commit represents progress, not perfection. Focused on mastering software engineering through consistency, curiosity, and execution.
